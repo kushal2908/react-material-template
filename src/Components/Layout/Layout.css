@@ -1,0 +1,14 @@
+.topbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.mainBody {
+  min-height: 80vh;
+}
+.footer {
+  text-align: center;
+  color: #666;
+  font-weight: 700;
+  font-size: 13px;
+}
